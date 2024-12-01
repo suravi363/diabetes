@@ -10,6 +10,7 @@ This project leverages machine learning algorithms to predict whether an individ
 
 ## Dataset
 - The model uses a **Kaggle diabetes dataset** containing features like **Glucose levels**, **Blood Pressure**, **Skin Thickness**, **Insulin levels**, **BMI**, and **Age**.
+- Kaggle Dataset: [Diabetes Dataset - Pima Indians](https://www.kaggle.com/datasets/nancyalaswad90/review)
 
 ## Model Accuracy
 - **Random Forest**: 0.7917
