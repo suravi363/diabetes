@@ -1,4 +1,4 @@
-# AI-Based Diabetes Detection
+# ML-Based Diabetes Detection
 
 This project leverages machine learning algorithms to predict whether an individual is diabetic or non-diabetic based on symptoms and biometric data. By using **scikit-learn** for the machine learning models, the system aims to enhance the speed, accuracy, and accessibility of diabetes detection.
 
